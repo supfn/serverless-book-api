@@ -1,0 +1,10 @@
+{
+  "name": "serverless-book-api",
+  "version": "1.0.0",
+  "description": "Serverless book management API",
+  "dependencies": {
+    "@hapi/joi": "^15.0.3",
+    "aws-sdk": "^2.466.0",
+    "uuid": "^3.3.2"
+  }
+}
